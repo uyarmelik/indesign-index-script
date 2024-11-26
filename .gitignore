@@ -1,0 +1,10 @@
+/shelf/
+/workspace.xml
+.DS_Store
+Thumbs.db
+*.sql linguist-detectable=true
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
